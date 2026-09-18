@@ -1,16 +1,38 @@
-# React + Vite
+❦ Vintage Folio 🌸✨
+A cozy, dreamy 18th-century digital vellum journal with tactile acoustic feedback, soft parchment curls, and persistent memory[cite: 5, 12, 17].
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+🔗 Live Diary: vintage-diary-ten.vercel.app[cite: 17]
 
-Currently, two official plugins are available:
+📦 Repository: github.com/skyme-A/VintageDiary[cite: 15]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✨ What's Inside?
+📖 Wordless Vintage Art Covers: Minimalist floral plaster and French ephemera art[cite: 1, 10, 12].
 
-## React Compiler
+📜 9 Rotating Aesthetic Folios: Tea-stained paper leaves looping seamlessly for 365 days[cite: 2, 3, 4, 5, 6, 7, 8, 9].
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✍️ 18th-Century Manuscript Script: Calligraphy written in antique walnut, indigo, and sepia inks[cite: 5].
 
-## Expanding the Oxlint configuration
+🎧 Acoustic Audio: Procedural quill scratches on typing and soft whispery page turns.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+🔒 Lock & Save: Deterministic manual saving so your memories never disappear on refresh.
+
+🧹 Gum Eraser: Clear any page with one clean tap.
+
+🕯️ Candlelight Reveal: Secret lemon-juice ink hidden in the shadows until illuminated.
+
+🛠️ Built With
+React + Vite ⚡
+
+Web Audio API 🎶
+
+Google Fonts (Pinyon Script, Italianno, Cormorant Garamond)[cite: 5]
+
+Hosted on Vercel ☁️[cite: 16, 17]
+
+🌸 Quick Start
+Bash
+git clone https://github.com/skyme-A/VintageDiary.git
+cd VintageDiary
+npm install
+npm run dev
+Made with love, dry petals, and midnight thoughts. 🕯️🥀
