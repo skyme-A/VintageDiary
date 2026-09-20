@@ -1,38 +1,35 @@
-❦ Vintage Folio 🌸✨
-A cozy, dreamy 18th-century digital vellum journal with tactile acoustic feedback, soft parchment curls, and persistent memory[cite: 5, 12, 17].
+# Vintage Folio
 
-🔗 Live Diary: vintage-diary-ten.vercel.app[cite: 17]
+A cozy, 18th-century digital vellum journal featuring tactile acoustic feedback, soft parchment textures, and persistent saving.
 
-📦 Repository: github.com/skyme-A/VintageDiary[cite: 15]
+**Live Demo:** [vintage-diary-d18u28htp-skyme-as-projects.vercel.app](https://vintage-diary-d18u28htp-skyme-as-projects.vercel.app/)
 
-✨ What's Inside?
-📖 Wordless Vintage Art Covers: Minimalist floral plaster and French ephemera art[cite: 1, 10, 12].
+---
 
-📜 9 Rotating Aesthetic Folios: Tea-stained paper leaves looping seamlessly for 365 days[cite: 2, 3, 4, 5, 6, 7, 8, 9].
+## Features
 
-✍️ 18th-Century Manuscript Script: Calligraphy written in antique walnut, indigo, and sepia inks[cite: 5].
+- **Vintage Covers:** Minimalist floral plaster and French ephemera cover art[cite: 1].
+- **9 Rotating Folios:** Seamlessly cycling tea-stained paper backgrounds[cite: 1].
+- **Manuscript Script:** Historic calligraphy in antique walnut, indigo, and sepia inks[cite: 1].
+- **Acoustic Audio:** Procedural quill scratches while typing and subtle page turns via the Web Audio API[cite: 1].
+- **Candlelight Reveal:** Secret lemon-juice ink revealed when illuminated[cite: 1].
+- **Lock & Save:** Manual saving so your entries persist across refreshes[cite: 1].
+- **Gum Eraser:** Clear any page with a single click[cite: 1].
 
-🎧 Acoustic Audio: Procedural quill scratches on typing and soft whispery page turns.
+---
 
-🔒 Lock & Save: Deterministic manual saving so your memories never disappear on refresh.
+## Tech Stack
 
-🧹 Gum Eraser: Clear any page with one clean tap.
+- **Frontend:** React + Vite[cite: 1]
+- **Languages:** JavaScript, CSS, HTML[cite: 1]
+- **Audio:** Web Audio API[cite: 1]
+- **Fonts:** Pinyon Script, Italianno, Cormorant Garamond[cite: 1]
 
-🕯️ Candlelight Reveal: Secret lemon-juice ink hidden in the shadows until illuminated.
+---
 
-🛠️ Built With
-React + Vite ⚡
+## Getting Started
 
-Web Audio API 🎶
-
-Google Fonts (Pinyon Script, Italianno, Cormorant Garamond)[cite: 5]
-
-Hosted on Vercel ☁️[cite: 16, 17]
-
-🌸 Quick Start
-Bash
-git clone https://github.com/skyme-A/VintageDiary.git
-cd VintageDiary
-npm install
-npm run dev
-Made with love, dry petals, and midnight thoughts. 🕯️🥀
+1. **Clone the repo**
+   ```bash
+   git clone [https://github.com/skyme-A/VintageDiary.git](https://github.com/skyme-A/VintageDiary.git)
+   cd VintageDiary
